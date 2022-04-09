@@ -1,0 +1,6 @@
+read-randr-json (1.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Zignage <zignage@localhost>  Sat, 09 Apr 2022 18:33:39 +0100
